@@ -1,0 +1,10 @@
+"""
+config.py
+إعدادات المشروع الافتراضية.
+"""
+DEFAULT_PAGE_SIZE = 'A4'
+DEFAULT_ORIENTATION = 'portrait'
+DEFAULT_MARGIN = 10
+DEFAULT_SCALE_MODE = 'fit'
+DEFAULT_JPEG_QUALITY = 85
+BATCH_SIZE = 20

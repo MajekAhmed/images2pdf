@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+*.log
+*.tmp
+.env
+venv/
+.envrc
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# PDF output
+output/*.pdf
